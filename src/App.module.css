@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.TodoList {
+  list-style:none;
+}
+
+.TodoList li{
+  margin-bottom:10px;
+}
+
+.TodoList li button{
+  margin-right:5px;
+}
+
+.TodoForm input{
+  margin-right:10px;
+}
+.TodoForm button{
+  margin-right:10px;
+}
